@@ -9,7 +9,7 @@ int main(){
     bilangan = rand() % 10;
     while (bilangan%2){
         cout << "Bilangan " << bilangan << " adalah ganjil" << endl;
-        bilangan=rand() %  10;
+        bilangan = rand() %  10;
     }
     cout << "Bilangan " << bilangan << " adalah genap" << endl;
 

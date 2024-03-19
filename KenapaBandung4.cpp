@@ -37,6 +37,7 @@ void display(){
     }
 
 int main(){
+    
     input();
     display();
 }

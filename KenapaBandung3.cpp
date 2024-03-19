@@ -11,8 +11,6 @@ int main(){
         cout << "apakah anda masih hidup? (yes/no)";
         cin >> pilihan;
 
-    while (pilihan == "yes");
-
-
     }
+    while (pilihan == "yes");
 }
